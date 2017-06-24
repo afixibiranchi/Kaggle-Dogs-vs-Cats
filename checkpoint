@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/topiary/Coding/Tensorflow/Kaggle Dogs vs. Cats/best_model/model.ckpt"
+all_model_checkpoint_paths: "/home/topiary/Coding/Tensorflow/Kaggle Dogs vs. Cats/best_model/model.ckpt"
